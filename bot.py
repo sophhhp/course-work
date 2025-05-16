@@ -1,7 +1,6 @@
 import os
 import telebot
 import requests
-from bs4 import BeautifulSoup
 from telebot import types
 import random
 
