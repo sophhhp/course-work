@@ -3,3 +3,4 @@ __pycache__/
 results/
 bot_token.py
 *.zip
+stimuli.txt
